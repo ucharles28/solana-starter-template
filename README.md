@@ -2,6 +2,13 @@
 
 This project is a generic starter for developers to use in Codespaces that includes basic system tools and extensions.
 
+## Usage
+
+To use this codespace template simply create a new repository from this repository. In the new repository you have to wait until the codespace prebuild action is executed (takes around 15-20 minutes). Afterward you can access the prebuild codespace and optionally execute:
+
+        anchor init <project-name>
+        
+This will initialize a new anchor project in the root directory of the new repository.
 
 ## What's Included
 
